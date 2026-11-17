@@ -1,0 +1,65 @@
+name: Request code access
+description: Ask for read-only access to one or more private project repositories.
+title: "Code access request: <your name / company>"
+labels: ["access-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your interest. Fill in the details below and I'll add you as a **read-only collaborator** on the requested repositories.
+        Please don't post anything confidential here; this issue is public.
+  - type: input
+    id: name
+    attributes:
+      label: Your name
+    validations:
+      required: true
+  - type: input
+    id: company
+    attributes:
+      label: Company / organisation
+    validations:
+      required: true
+  - type: input
+    id: github
+    attributes:
+      label: GitHub username to grant access to
+      placeholder: "e.g. octocat"
+    validations:
+      required: true
+  - type: checkboxes
+    id: projects
+    attributes:
+      label: Projects you'd like to review
+      options:
+        - label: CamCon (Campus Connect)
+        - label: PartsGrid
+        - label: FinWise
+        - label: BizGroup
+        - label: RSC (ClickPix)
+  - type: dropdown
+    id: purpose
+    attributes:
+      label: Purpose
+      options:
+        - Hiring / technical evaluation
+        - Client project evaluation
+        - Partnership
+        - Other
+    validations:
+      required: true
+  - type: checkboxes
+    id: demo
+    attributes:
+      label: Live demo
+      options:
+        - label: I'd also like a live walkthrough / demo
+  - type: input
+    id: contact
+    attributes:
+      label: Preferred contact (optional)
+      description: Your email address appears publicly in this issue. Leave it blank if you'd rather I reply here.
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else?

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 64" role="img" aria-label="CamCon, Campus Connect">
+  <rect width="64" height="64" rx="15" fill="#0F4C5C"/>
+  <path d="M13 44 C 19 22, 45 22, 51 44" fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round"/>
+  <path d="M13 49 H51" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="13" cy="44" r="6" fill="#2A9D8F" stroke="#0F4C5C" stroke-width="2.5"/>
+  <circle cx="51" cy="44" r="6" fill="#4C5FD5" stroke="#0F4C5C" stroke-width="2.5"/>
+  <circle cx="32" cy="27.5" r="6.5" fill="#E8A33D" stroke="#0F4C5C" stroke-width="2.5"/>
+  <text x="80" y="38" font-family="'Bricolage Grotesque', 'Avenir Next', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#1B2430" letter-spacing="-0.5">CamCon</text>
+  <text x="81" y="56" font-family="'Public Sans', 'Avenir Next', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#4A5A6A">Campus Connect</text>
+</svg>

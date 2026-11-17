@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 336 64" role="img" aria-label="PartsGrid — parts, rentals, marketplace">
+  <g>  <rect width="64" height="64" rx="15" fill="#E2561B"/>
+  <path d="M42.68,28.37 L47.66,29.34 L47.66,40.66 L42.68,41.63 L43.36,39.98 L46.20,44.19 L38.19,52.20 L33.98,49.36 L35.63,48.68 L34.66,53.66 L23.34,53.66 L22.37,48.68 L24.02,49.36 L19.81,52.20 L11.80,44.19 L14.64,39.98 L15.32,41.63 L10.34,40.66 L10.34,29.34 L15.32,28.37 L14.64,30.02 L11.80,25.81 L19.81,17.80 L24.02,20.64 L22.37,21.32 L23.34,16.34 L34.66,16.34 L35.63,21.32 L33.98,20.64 L38.19,17.80 L46.20,25.81 L43.36,30.02 Z" fill="#fff"/>
+  <path d="M35.24,38.60 L29.00,42.20 L22.76,38.60 L22.76,31.40 L29.00,27.80 L35.24,31.40 Z" fill="#E2561B"/>
+  <path d="M38.5 9.5 A22 22 0 0 1 55.5 31" fill="none" stroke="#20262E" stroke-width="4.6" stroke-linecap="round"/>
+  <path d="M49.6 30.2 L55.6 37.6 L60.4 29.4 Z" fill="#20262E"/>
+  <circle cx="51" cy="51" r="7.5" fill="#20262E"/>
+  <path d="M47.6 51.2 l2.4 2.4 l4.4 -4.8" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+  <text x="76" y="36" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Arial,sans-serif" font-size="30" font-weight="800" letter-spacing="-0.5" fill="#20262E">Parts<tspan fill="#E2561B">Grid</tspan></text>
+  <text x="77" y="54" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Arial,sans-serif" font-size="9.6" font-weight="700" letter-spacing="2.1" fill="#7B8592">SPARES · RENTALS · MARKETPLACE</text>
+</svg>
